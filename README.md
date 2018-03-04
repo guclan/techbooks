@@ -15,7 +15,7 @@
 ## Python
 
 - [Python基础教程(En)](./python/Beginning_Python_from_Novice_to_pro.pdf)
-- [Python编程导论(En)](./python/Introduction_to_Computation_and_Programming using_Python.pdf)
+- [Python编程导论(En)](./python/Introduction_to_Computation_and_Programming_using_Python.pdf)
 - [Python机器学习基础教程(En)](./python/Introduction_to_Machine_Learning.pdf)
 - [Python数据分析(En)](./python/Python_for_Data_Analysis.pdf)
 - [Python核心编程](./python/Python核心编程.pdf)
