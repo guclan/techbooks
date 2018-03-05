@@ -1,6 +1,10 @@
 # tech_docs
 技术书籍，仅供参考使用，请勿用作商业用途
 
+## basic
+
+- [算法](./basic/Algorithms.pdf)
+
 ## alibaba
 
 - [2017阿里技术年度精选(上)](./alibaba/2017alitech_01.pdf)
