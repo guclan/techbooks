@@ -5,6 +5,7 @@
 
 - [算法](./basic/Algorithms.pdf)
 - [Cygwin详解](./basic/cygwin_intro.pdf)
+- [数据结构](./basic/dsacpp_3rd_edn.pdf)
 - [Hacking the Windows Registry](./basic/Hacking_The_Windows_Registry.pdf)
 - [Microsoft Windows XP Registry Guide](./basic/Microsoft_Windows_XP_Registry_Guide.pdf)
 
