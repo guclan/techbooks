@@ -63,3 +63,8 @@
 ## math
 
 - [计算机科学中的数学](./math/mcs.pdf)
+
+## openstack
+
+- [Openstack云计算手册](./openstack/OpenStack_Cloud_Computing_Cookbook_2nd_Edition.pdf)
+- [OpenStack操作指南](./openstack/OpenStack_Operations_Guide.pdf)
