@@ -19,6 +19,9 @@
 - [2016阿里双十一](./alibaba/alitech_double11_2016.pdf)
 - [2017阿里双十一](./alibaba/alitech_double11_2017.pdf)
 - [深入探索Android热修复技术原理](./alibaba/Android_hot_repair_technology_7.3Q.pdf)
+- [CVPR-2018顶会论文精选合集](./alibaba/CVPR-2018顶会论文精选合集.pdf)
+- [Ali math competition reference solutions](./alibaba/Ali_math_competition_reference_solutions.pdf)
+- [数字经济下的算法力量](./alibaba/数字经济下的算法力量.pdf)
 - [阿里巴巴Android开发手册1.0.0](./alibaba/Android1_0_0.pdf)
 - [强化学习在阿里的技术演进与业务创新](./alibaba/reinforcement_learning.pdf)
 
